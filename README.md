@@ -1,8 +1,31 @@
 <h1 align="center">🧠 Data Structures & Algorithms Repository</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gR0D6GD8F7Tfu7C/giphy.gif" width="200" alt="DSA gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=DSA+is+Power;Code+every+day;Master+Data+Structures+and+Algorithms" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Follow Button -->
+  <a href="https://github.com/sudarshan-hash" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <!-- Email Contact Button -->
+  <a href="tsudarshan96@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <!-- LinkedIn Connect Button -->
+  <a href="linkedin.com/in/sudarshan-tambe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<hr>
 
 <h3 align="center">A collection of my journey through  Data Structures and Algorithms 🚀</h3>
 
